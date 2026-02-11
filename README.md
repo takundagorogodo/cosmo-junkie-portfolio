@@ -38,15 +38,13 @@ This project was built for practice to strengthen my frontend layout, grid syste
 
 ---
 ## 🚀 Project structure
-cosmo-junkie-portfolio/
--│
--├─ index.html
--├─ styles.css
--├─ assets/
--│   ├─ images
--│   ├─ icons
--│   └─ fonts
--└─ README.md
+cosmo-junkie-portfolio:/
+- │
+- ├─ index.html
+- ├─ styles.css
+- ├─ assets/:
+- │   ├─ images  
+- └─ README.md
 
 
 © 2026 Cosmo Junkie Portfolio — Styled & Customized by Me
