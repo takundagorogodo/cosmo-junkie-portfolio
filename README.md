@@ -37,15 +37,16 @@ After completing the tutorial, I restyled and customized the project myself, inc
 This project was built for practice to strengthen my frontend layout, grid system, and responsive design skills after learning from Net Ninja.
 
 ---
+## 🚀 Project structure
 cosmo-junkie-portfolio/
-│
-├─ index.html
-├─ styles.css
-├─ assets/
-│   ├─ images
-│   ├─ icons
-│   └─ fonts
-└─ README.md
+-│
+-├─ index.html
+-├─ styles.css
+-├─ assets/
+-│   ├─ images
+-│   ├─ icons
+-│   └─ fonts
+-└─ README.md
 
 
 © 2026 Cosmo Junkie Portfolio — Styled & Customized by Me
