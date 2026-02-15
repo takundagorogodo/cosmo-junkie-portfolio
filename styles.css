@@ -1,6 +1,6 @@
 /* variables */
 :root{
-  --primary: #FFC636;
+  --primary: #6dbece;
   --secondary: #0A0B5B;
 }
 
@@ -57,7 +57,7 @@ body{
 }
 #skills .grid li:hover {
      transform: scale(1.1);
-     border: 1px solid #9994f7;
+     border: 1px solid #71d4dd;
 }
 .social a img{
   transition: all 0.3s;
@@ -81,12 +81,12 @@ input,textarea{
   src: url("assets/fonts/Rubik-Regular.ttf") format("ttf"),
 }
 h1,h2,h3,h4{
-  color: #DDDBFF;
+  color: #4ad9ec;
   font-weight: normal;
   line-height: 1.4em;
 }
 p,a,li{
-  color: #9893D8;
+  color: #8aceeb;
   line-height: 1.4em;
   font-size: 1em;
 }
@@ -163,7 +163,7 @@ h4{
   align-self: center;
 }
 .projects h4{
-  color: #9994f7
+  color: #70cade
 }
 #skills{
   padding: 30px 20px;
