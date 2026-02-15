@@ -46,5 +46,17 @@ cosmo-junkie-portfolio:/
 - │   ├─ images  
 - └─ README.md
 
+  ## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/home.png" width="45%">
+  <img src="screenshots/projects.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="screenshots/skills.png" width="45%">
+  <img src="screenshots/contact.png" width="45%">
+</p>
+
 
 © 2026 Cosmo Junkie Portfolio — Styled & Customized by Me
